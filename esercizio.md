@@ -151,7 +151,7 @@ trait Calculator {
     return $a / $b;
   }  
   public function sqr($a){
-   return sqrt($numero);
+   return sqrt($a);
   }
 }
 ```
